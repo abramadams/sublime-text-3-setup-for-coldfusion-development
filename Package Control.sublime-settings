@@ -1,0 +1,43 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"ColdBox Platform",
+		"ColdFusion",
+		"ColdFusion Docs Launcher",
+		"Dayle Rees Color Schemes",
+		"Enhanced HTML and CFML",
+		"File History",
+		"FileDiffs",
+		"Github Color Theme",
+		"jQuery Snippets pack",
+		"JSHint",
+		"JSHint Gutter",
+		"JSONLint",
+		"Local History",
+		"Markdown Extended",
+		"Markdown Preview",
+		"mxunit",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SideBarGit",
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"SublimeLinter-jshint",
+		"Tag",
+		"Theme - Soda",
+		"Themr"
+	],
+	"repositories":
+	[
+		"https://sublime.wbond.net/testing/packages.json",
+		"https://sublime.wbond.net/testing/packages.json"
+	]
+}
