@@ -1,0 +1,25 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"BracketHighlighter",
+		"Twitter Bootstrap Snippets",
+		"SublimeCodeIntel",
+		"Vintage",
+		"Local History"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"index_files": false,
+	"match_brackets_angle": true,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": false,
+	"theme": "Soda Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false"
+}
