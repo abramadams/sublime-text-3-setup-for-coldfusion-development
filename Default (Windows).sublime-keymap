@@ -1,0 +1,13 @@
+[
+	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": {"single_line": false}},
+	{ "keys": ["ctrl+alt+down"], "command": "duplicate_line" },
+	{ "keys": ["ctrl+shift+m"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["alt+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+down"], "command": "swap_line_down" },
+	{ "keys": ["ctrl+shift+b"], "command": "expand_selection", "args": {"to": "brackets"} },
+	{ "keys": ["ctrl+b"], "command": "move_to", "args": {"to": "brackets"} },
+	{ "keys": ["ctrl+u"], "command": "upper_case" },
+	{ "keys": ["ctrl+l"], "command": "lower_case" },
+	{ "keys": ["ctrl+m"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+r"], "command": "soft_undo" }
+]
